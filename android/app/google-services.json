@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251121360897",
+    "project_id": "flutterwaterapp",
+    "storage_bucket": "flutterwaterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251121360897:android:e8fd954f9b4044269ca000",
+        "android_client_info": {
+          "package_name": "com.example.social_water"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251121360897-3i12gpdbe81mk6ioukphrdao780n1u7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNOGJoSa0LQBWJ3BmRceOsIbZc8krvZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251121360897-3i12gpdbe81mk6ioukphrdao780n1u7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
